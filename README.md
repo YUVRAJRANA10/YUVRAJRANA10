@@ -8,28 +8,28 @@ I'm a passionate developer with experience in various programming languages and 
 
 ## Skills
 
-- **Languages:** Python, JavaScript, C , C++
+- **Languages:** Python, JavaScript, C, C++
 - **Web development**: HTML, CSS ,Bootstrap,Js 
 - **Frameworks:** React, Node.js, Express, Tailwind CSS
 - **Tools:** Git
 - **Interests:** AI/ML, Cloud Computing, DevOps
 
-## Currently Learning
+## Current Status
 
-🔭 I’m currently working on web development projects, exploring new ideas and refining my skills.
-🌱 I’m currently learning backend development, problem-solving techniques, and advanced web technologies.
-👯 I’m looking to collaborate on any exciting tech projects—web dev, software, AI, or something innovative!
-🤔 I’m looking for help with optimizing backend performance and mastering scalable architectures.
-💬 Ask me about web development, UI/UX, and creative tech solutions.
-😄 Pronouns: He/Him
-⚡ Fun fact: I tend to get way too overwhelmed when deep into a project—but that’s part of the fun! 😅
+-😄 Pronouns: He/Him
+-🔭 I’m currently working on web development projects, exploring new ideas and refining my skills.
+-🌱 I’m currently learning backend development, problem-solving techniques, and advanced web technologies.
+-👯 I’m looking to collaborate on any exciting tech projects—web dev, software, AI, or something innovative!
+-🤔 I’m looking for help with optimizing backend performance and mastering scalable architectures.
+-💬 Ask me about web development, UI/UX, and creative tech solutions.
+-⚡ Fun fact: I tend to get way too overwhelmed when deep into a project—but that’s part of the fun! 😅
 
 ## Get in Touch
 
-- [GitHub](https://github.com/YUVRAJRANA10)
-- [Email](mailto:yuvraj.r0810@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-3aabb2317/)
-- [Twitter](https://x.com/YuvrajS0810)
+- **Github** [GitHub](https://github.com/YUVRAJRANA10)
+- **Email**  [Email](mailto:yuvraj.r0810@gmail.com)
+- **LinkedIn** [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-3aabb2317/)
+- **Twitter** [Twitter](https://x.com/YuvrajS0810)
 
 Feel free to reach out if you want to collaborate on a project or just say hi!
 Here are some ideas to get you started:
