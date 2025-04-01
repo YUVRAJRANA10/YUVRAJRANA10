@@ -17,12 +17,12 @@ I'm a passionate developer with experience in various programming languages and 
 ## Current Status
 
 -😄 Pronouns: He/Him
--🔭 I’m currently working on web development projects, exploring new ideas and refining my skills.
--🌱 I’m currently learning backend development, problem-solving techniques, and advanced web technologies.
--👯 I’m looking to collaborate on any exciting tech projects—web dev, software, AI, or something innovative!
--🤔 I’m looking for help with optimizing backend performance and mastering scalable architectures.
--💬 Ask me about web development, UI/UX, and creative tech solutions.
--⚡ Fun fact: I tend to get way too overwhelmed when deep into a project—but that’s part of the fun! 😅
+-🔭 I’m currently working on web development projects, exploring new ideas and refining my skills. <br>
+-🌱 I’m currently learning backend development, problem-solving techniques, and advanced web technologies.<br>
+-👯 I’m looking to collaborate on any exciting tech projects—web dev, software, AI, or something innovative! <br>
+-🤔 I’m looking for help with optimizing backend performance and mastering scalable architectures.<br>
+-💬 Ask me about web development, UI/UX, and creative tech solutions. <br>
+-⚡ Fun fact: I tend to get way too overwhelmed when deep into a project—but that’s part of the fun! 😅 <br>
 
 ## Get in Touch
 
