@@ -4,7 +4,7 @@ Web Dev | Tech Explorer | Passionate Learner 💡
 
 Hi, I'm Yuvraj Singh! 👋
 
-I'm a passionate developer with experience in various programming languages and technologies. I am a First year student who has always shown interest in learning new tech stacks. Currently, I am focusing on Web development. I enjoy working on open-source projects and contributing to the developer community.
+I'm a passionate developer with experience in various programming languages and technologies. I am a Second year student who has always shown interest in learning new tech stacks. Currently, I am focusing on Web development. I enjoy working on open-source projects and contributing to the developer community.
 
 ## Skills
 
@@ -32,4 +32,3 @@ I'm a passionate developer with experience in various programming languages and 
 - **Twitter** [Twitter](https://x.com/YuvrajS0810)
 
 Feel free to reach out if you want to collaborate on a project or just say hi!
-Here are some ideas to get you started:
