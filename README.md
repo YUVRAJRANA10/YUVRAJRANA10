@@ -2,6 +2,14 @@
 
 Web Dev | Tech Explorer | Passionate Learner 💡
 
+## 🐍 Contribution Snake  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YUVRAJRANA10/YUVRAJRANA10/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YUVRAJRANA10/YUVRAJRANA10/main/dist/github-contribution-grid-snake.svg" />
+</picture>
+
+
 Hi, I'm Yuvraj Singh! 👋
 
 I am a second-year Computer Science student with hands-on experience in full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I have worked on projects involving Three.js, React Router, and SQL, and have practical experience with Git, GitHub, and deployment workflows. Alongside web development, I am also enthusiastic about exploring AI/ML, Cloud Computing, and DevOps, and continuously refining my skills through projects and hackathons.
