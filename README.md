@@ -4,15 +4,15 @@ Web Dev | Tech Explorer | Passionate Learner 💡
 
 Hi, I'm Yuvraj Singh! 👋
 
-I'm a passionate developer with experience in various programming languages and technologies. I am a Second year student who has always shown interest in learning new tech stacks. Currently, I am focusing on Web development. I enjoy working on open-source projects and contributing to the developer community.
+I am a second-year Computer Science student with hands-on experience in full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I have worked on projects involving Three.js, React Router, and SQL, and have practical experience with Git, GitHub, and deployment workflows. Alongside web development, I am also enthusiastic about exploring AI/ML, Cloud Computing, and DevOps, and continuously refining my skills through projects and hackathons.
 
 ## Skills
 
-- **Languages:** Python, JavaScript, C, C++
-- **Web development**: HTML, CSS ,Bootstrap,Js 
-- **Frameworks:** React, Node.js, Express, Tailwind CSS
-- **Tools:** Git
-- **Interests:** AI/ML, Cloud Computing, DevOps
+- Programming Languages: Python, JavaScript (ES6+), C, C++, Java
+- Full-Stack Development: MERN Stack (MongoDB, Express.js, React.js, Node.js), RESTful APIs, SQL
+- Front-End Technologies: HTML5, CSS3, Bootstrap, Tailwind CSS, React Router, Three.js
+- Tools & Version Control: Git, GitHub
+- Domains of Interest: Artificial Intelligence & Machine Learning (AI/ML), Cloud Computing, DevOps
 
 ## Current Status
 
