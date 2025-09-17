@@ -2,7 +2,7 @@
 
 Web Dev | Tech Explorer | Passionate Learner 💡
 
-## 🐍 Contribution Snake  
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YUVRAJRANA10/YUVRAJRANA10/main/dist/github-contribution-grid-snake-dark.svg" />
